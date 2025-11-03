@@ -88,4 +88,4 @@ The AI uses Minimax with alpha-beta pruning and a custom heuristic:
 
 ## Credits
 
-- [Grégoire Gobert](https://github.com/gregoiregobert)
+- [Joseph Lanza](https://github.com/lanzaj)
